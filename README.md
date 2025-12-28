@@ -67,7 +67,6 @@
   <br>
 
   <div style="max-width: 900px; margin: 0 auto; text-align: left; color: #282d33; font-size: 15px; line-height: 1.7;">
-
     <b>🟣 Hover AI</b> – Multimodal Assistive AI System  
     <br/>
     시각장애인을 위한 스마트 보조 시스템으로,  

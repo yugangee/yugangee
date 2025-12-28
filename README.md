@@ -110,7 +110,6 @@
       </p>
       <p style="margin: 0; font-size: 13px;"><b>Tech</b> · Python · PyTorch · YOLO · EasyOCR · AWS</p>
     </div>
-
     <div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 20px;">
       <h3 style="margin: 0; color: #2563eb;"> 🟣 Football Analysis Commentary System</h3>
       <p style="margin: 8px 0 12px; font-size: 14px;">
@@ -119,7 +118,6 @@
       </p>
       <p style="margin: 0; font-size: 13px;"><b>Tech</b> · Python · OpenCV · FAISS · RAG · AWS</p>
     </div>
-
     <div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 20px;">
       <h3 style="margin: 0; color: #059669;"> 🟣 Fashion Jiok</h3>
       <p style="margin: 8px 0 12px; font-size: 14px;">
@@ -128,7 +126,6 @@
       </p>
       <p style="margin: 0; font-size: 13px;"><b>Tech</b> · React Native · Expo · Node.js · MySQL · Gemini API</p>
     </div>
-
     <div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 20px;">
       <h3 style="margin: 0;"> 🟣 Sedaily AI News Platform</h3>
       <p style="margin: 8px 0 12px; font-size: 14px;">

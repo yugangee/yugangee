@@ -97,38 +97,61 @@
   </a>
 </div>
 
+<!-- Projects -->
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Projects </h2>
   <br>
 
-  <div style="max-width: 900px; margin: 0 auto; text-align: left; color: #282d33; font-size: 15px; line-height: 1.7;">
-    <b>🟣 Hover AI</b> – Multimodal Assistive AI System  
-    <br/>
-    시각장애인을 위한 스마트 보조 시스템으로,  
-    YOLO 기반 손끝 인식 · OCR · TTS를 결합해  
-    세탁기·전자제품 터치패널 텍스트와 LED 상태를 실시간 음성 안내
-    <br/>
-    <sub>Tech: Python · PyTorch · YOLO · EasyOCR · AWS</sub>
-    <br/><br/>
-    <b>🟣 Football Analysis Commentary System</b>  
-    <br/>
-    축구 경기 영상을 분석해 상황 인식 기반 해설 자막을 자동 생성하는 AI 시스템  
-    (객체 추적 · 점유율 분석 · RAG 기반 해설 생성)
-    <br/>
-    <sub>Tech: Python · OpenCV · FAISS · RAG · AWS</sub>
-    <br/><br/>
-    <b>🟣 Fashion Jiok</b> – Style-based Social App  
-    <br/>
-    사용자 스타일 분석 기반 매칭과  
-    Gemini API를 활용한 대화 추천 기능을 제공하는 모바일 애플리케이션
-    <br/>
-    <sub>Tech: React Native · Expo · Node.js · MySQL · Gemini API</sub>
-    <br/><br/>
-    <b>🟣 Sedaily AI News Platform</b>  
-    <br/>
-    기사 생성 · 번역 · SEO/AEO 최적화를 자동화한 AI 뉴스 플랫폼  
-    (RAG + LLM 기반 기사 파이프라인 구축)
-    <br/>
-    <sub>Tech: Next.js · Node.js · AWS · RAG · LLM</sub>
+  <div style="max-width: 900px; margin: 0 auto; display: grid; gap: 20px;">
+
+    <!-- Hover AI -->
+    <div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 20px;">
+      <h3 style="margin: 0; color: #7c3aed;"> 🟣 Hover AI</h3>
+      <p style="margin: 8px 0 12px; color: #282d33; font-size: 14px;">
+        시각장애인을 위한 Multimodal Assistive AI 시스템.<br/>
+        YOLO 기반 손끝 인식 · OCR · TTS를 결합해<br/>
+        전자제품 터치패널 텍스트와 LED 상태를 실시간 음성 안내.
+      </p>
+      <p style="margin: 0; font-size: 13px; color: #4b5563;">
+        <b>Tech</b> · Python · PyTorch · YOLO · EasyOCR · AWS
+      </p>
+    </div>
+
+    <!-- Football -->
+    <div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 20px;">
+      <h3 style="margin: 0; color: #2563eb;"> 🟣 Football Analysis Commentary System</h3>
+      <p style="margin: 8px 0 12px; color: #282d33; font-size: 14px;">
+        축구 경기 영상을 분석해<br/>
+        객체 추적·점유율 분석 기반의 해설 자막을 자동 생성하는 AI 시스템.
+      </p>
+      <p style="margin: 0; font-size: 13px; color: #4b5563;">
+        <b>Tech</b> · Python · OpenCV · FAISS · RAG · AWS
+      </p>
+    </div>
+
+    <!-- Fashion Jiok -->
+    <div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 20px;">
+      <h3 style="margin: 0; color: #059669;"> 🟣 Fashion Jiok</h3>
+      <p style="margin: 8px 0 12px; color: #282d33; font-size: 14px;">
+        사용자 스타일 분석 기반 매칭과<br/>
+        Gemini API를 활용한 대화 추천 기능을 제공하는 모바일 앱.
+      </p>
+      <p style="margin: 0; font-size: 13px; color: #4b5563;">
+        <b>Tech</b> · React Native · Expo · Node.js · MySQL · Gemini API
+      </p>
+    </div>
+
+    <!-- Sedaily -->
+    <div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 20px;">
+      <h3 style="margin: 0; color: #111827;"> 🟣 Sedaily AI News Platform</h3>
+      <p style="margin: 8px 0 12px; color: #282d33; font-size: 14px;">
+        기사 생성·번역·SEO/AEO 최적화를 자동화한<br/>
+        RAG + LLM 기반 AI 뉴스 플랫폼.
+      </p>
+      <p style="margin: 0; font-size: 13px; color: #4b5563;">
+        <b>Tech</b> · Next.js · Node.js · AWS · RAG · LLM
+      </p>
+    </div>
+
   </div>
 </div>

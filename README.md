@@ -49,7 +49,6 @@
 </div>
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓 Certificates </h2>
-  <br>
   <div style="font-size: 15px; color: #282d33; line-height: 1.8; text-align: center;">
     • SQLD (SQL Developer)<br/>
     • OPIC<br/>

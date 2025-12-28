@@ -75,7 +75,6 @@
     <br/>
     <sub>Tech: Python · PyTorch · YOLO · EasyOCR · AWS</sub>
     <br/><br/>
-
     <b>🟣 Football Analysis Commentary System</b>  
     <br/>
     축구 경기 영상을 분석해 상황 인식 기반 해설 자막을 자동 생성하는 AI 시스템  
@@ -83,7 +82,6 @@
     <br/>
     <sub>Tech: Python · OpenCV · FAISS · RAG · AWS</sub>
     <br/><br/>
-
     <b>🟣 Fashion Jiok</b> – Style-based Social App  
     <br/>
     사용자 스타일 분석 기반 매칭과  
@@ -91,13 +89,11 @@
     <br/>
     <sub>Tech: React Native · Expo · Node.js · MySQL · Gemini API</sub>
     <br/><br/>
-
     <b>🟣 Sedaily AI News Platform</b>  
     <br/>
     기사 생성 · 번역 · SEO/AEO 최적화를 자동화한 AI 뉴스 플랫폼  
     (RAG + LLM 기반 기사 파이프라인 구축)
     <br/>
     <sub>Tech: Next.js · Node.js · AWS · RAG · LLM</sub>
-
   </div>
 </div>

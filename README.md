@@ -62,9 +62,43 @@
   </a>
 </div>
 
-<!-- Stats -->
 <div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Heo-Yugyeong&custom_title=Heo-Yugyeong's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heo-Yugyeong&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Projects </h2>
+  <br>
+
+  <div style="max-width: 900px; margin: 0 auto; text-align: left; color: #282d33; font-size: 15px; line-height: 1.7;">
+
+    <b>🟣 Hover AI</b> – Multimodal Assistive AI System  
+    <br/>
+    시각장애인을 위한 스마트 보조 시스템으로,  
+    YOLO 기반 손끝 인식 · OCR · TTS를 결합해  
+    세탁기·전자제품 터치패널 텍스트와 LED 상태를 실시간 음성 안내
+    <br/>
+    <sub>Tech: Python · PyTorch · YOLO · EasyOCR · AWS</sub>
+    <br/><br/>
+
+    <b>🟣 Football Analysis Commentary System</b>  
+    <br/>
+    축구 경기 영상을 분석해 상황 인식 기반 해설 자막을 자동 생성하는 AI 시스템  
+    (객체 추적 · 점유율 분석 · RAG 기반 해설 생성)
+    <br/>
+    <sub>Tech: Python · OpenCV · FAISS · RAG · AWS</sub>
+    <br/><br/>
+
+    <b>🟣 Fashion Jiok</b> – Style-based Social App  
+    <br/>
+    사용자 스타일 분석 기반 매칭과  
+    Gemini API를 활용한 대화 추천 기능을 제공하는 모바일 애플리케이션
+    <br/>
+    <sub>Tech: React Native · Expo · Node.js · MySQL · Gemini API</sub>
+    <br/><br/>
+
+    <b>🟣 Sedaily AI News Platform</b>  
+    <br/>
+    기사 생성 · 번역 · SEO/AEO 최적화를 자동화한 AI 뉴스 플랫폼  
+    (RAG + LLM 기반 기사 파이프라인 구축)
+    <br/>
+    <sub>Tech: Next.js · Node.js · AWS · RAG · LLM</sub>
+
+  </div>
 </div>

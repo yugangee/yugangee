@@ -107,7 +107,7 @@
         YOLO 기반 손끝 인식 · OCR · TTS를 결합해<br/>
         전자제품 터치패널 텍스트와 LED 상태를 실시간 음성 안내.
       </p>
-      <p style="margin: 0; font-size: 13px;"><b>Tech</b> · Python · PyTorch · YOLO · EasyOCR · AWS</p>
+      <p style="margin: 0; font-size: 13px;"><b>Tech</b> · Python · PyTorch · YOLO · EasyOCR </p>
     </div>
     <div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 20px;">
       <h3 style="margin: 0; color: #2563eb;"> 🟣 Football Analysis Commentary System</h3>
@@ -115,7 +115,7 @@
         축구 경기 영상을 분석해<br/>
         객체 추적·점유율 분석 기반의 해설 자막을 자동 생성하는 AI 시스템.
       </p>
-      <p style="margin: 0; font-size: 13px;"><b>Tech</b> · Python · OpenCV · FAISS · RAG · AWS</p>
+      <p style="margin: 0; font-size: 13px;"><b>Tech</b> · Python · OpenCV · FAISS · RAG </p>
     </div>
     <div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 20px;">
       <h3 style="margin: 0; color: #059669;"> 🟣 Fashion Jiok</h3>

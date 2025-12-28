@@ -61,7 +61,7 @@
     <b>SK AI SUMMIT 2025</b><br/>
     국내 최대 AI 컨퍼런스 참가 및 최신 AI 기술 트렌드 탐구
     <br/>Hover AI 전시 및 시연
-    <br/>
+    <br/><br/> 
     <b>SKT FLY AI Challenger 7기</b><br/>
     ESG기반의 사회적 문제 해결 AI 프로젝트<br/>
     Computer Vision · TTS 기반 <i>Hover AI</i> 개발<br/>

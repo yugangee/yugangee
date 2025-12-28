@@ -68,11 +68,9 @@
     Computer Vision · TTS 기반 <i>Hover AI</i> 개발<br/>
     <sub>Role: 팀장 / AI 모델 설계 · 시스템 통합</sub>
     <br/><br/>
-
     <b>SideNow 2기</b><br/>
     취준생을 위한 맞춤형 포트폴리오 분석 플랫폼 개발
     <br/><br/>
-
     <b>빅데이터 분석 학회 BDAA</b><br/>
     데이터 분석·시각화·머신러닝 기반 프로젝트 수행
   </div>
@@ -102,9 +100,7 @@
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Projects </h2>
   <br>
-
   <div style="max-width: 900px; margin: 0 auto; display: grid; gap: 20px;">
-
     <div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 20px;">
       <h3 style="margin: 0; color: #7c3aed;"> 🟣 Hover AI</h3>
       <p style="margin: 8px 0 12px; font-size: 14px;">

@@ -95,7 +95,6 @@
   <!-- GitHub Hits -->
   <a href="https://hits.seeyoufarm.com">
   </a>
-</div>
 <!-- Projects -->
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Projects </h2>

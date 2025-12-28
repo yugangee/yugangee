@@ -42,7 +42,6 @@
 <!-- Awards -->
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Awards </h2>
-  <br>
   <div style="font-weight: 600; font-size: 15px; color: #282d33; line-height: 1.8;">
     🥇 SKT FLY AI 7기 <b>최우수상</b> 수상<br/>
     🥇 성신여자대학교 IT경진대회 <b>최우수상</b> 수상

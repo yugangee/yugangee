@@ -60,24 +60,19 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌐 Activities </h2>
   <br>
   <div style="max-width: 900px; margin: 0 auto; font-size: 15px; color: #282d33; line-height: 1.8; text-align: left;">
-
     <b>SK AI SUMMIT 2025</b><br/>
     국내 최대 AI 컨퍼런스 참가 및 최신 AI 기술 트렌드 탐구
     <br/><br/>
-
     <b>SKT FLY AI Challenger 7기</b><br/>
     AI 기반 사회 문제 해결 프로젝트 수행<br/>
     Multimodal Assistive AI 시스템 <i>Hover AI</i> 개발<br/>
     <sub>Role: 팀장 / AI 모델 설계 · 시스템 통합</sub>
     <br/><br/>
-
     <b>SideNow 2기</b><br/>
     실무 중심 IT 사이드 프로젝트 프로그램 참여
     <br/><br/>
-
     <b>빅데이터 분석 학회 BDAA</b><br/>
     데이터 분석·시각화·머신러닝 기반 프로젝트 수행
-
   </div>
 </div>
 <!-- Contact -->
@@ -100,10 +95,8 @@
   <br><br>
   <!-- GitHub Hits -->
   <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeo-Yugyeong%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
   </a>
 </div>
-
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Projects </h2>

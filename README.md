@@ -57,7 +57,6 @@
 </div>
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌐 Activities </h2>
-  <br>
   <div style="max-width: 900px; margin: 0 auto; font-size: 15px; color: #282d33; line-height: 1.8; text-align: left;">
     <b>SK AI SUMMIT 2025</b><br/>
     국내 최대 AI 컨퍼런스 참가 및 최신 AI 기술 트렌드 탐구

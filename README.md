@@ -61,14 +61,15 @@
   <div style="max-width: 900px; margin: 0 auto; font-size: 15px; color: #282d33; line-height: 1.8; text-align: left;">
     <b>SK AI SUMMIT 2025</b><br/>
     국내 최대 AI 컨퍼런스 참가 및 최신 AI 기술 트렌드 탐구
-    <br/><br/>
+    <br/>Hover AI 전시 및 시연
+    <br/>
     <b>SKT FLY AI Challenger 7기</b><br/>
-    AI 기반 사회 문제 해결 프로젝트 수행<br/>
-    Multimodal Assistive AI 시스템 <i>Hover AI</i> 개발<br/>
+    ESG기반의 사회적 문제 해결 AI 프로젝트<br/>
+    Computer Vision · TTS 기반 <i>Hover AI</i> 개발<br/>
     <sub>Role: 팀장 / AI 모델 설계 · 시스템 통합</sub>
     <br/><br/>
     <b>SideNow 2기</b><br/>
-    실무 중심 IT 사이드 프로젝트 프로그램 참여
+    취준생을 위한 맞춤형 포트폴리오 분석 플랫폼 개발
     <br/><br/>
     <b>빅데이터 분석 학회 BDAA</b><br/>
     데이터 분석·시각화·머신러닝 기반 프로젝트 수행

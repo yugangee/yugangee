@@ -51,7 +51,6 @@
     • TOEIC
   </div>
 </div>
-
 <!-- ===================== Activities ===================== -->
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌐 Activities </h2>
@@ -97,7 +96,6 @@
     <img src="https://img.shields.io/badge/dbrud@sedaily.com-000000?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
-
 <!-- ===================== Projects ===================== -->
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Projects </h2>

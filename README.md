@@ -99,7 +99,6 @@
 <!-- ===================== Projects ===================== -->
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Projects </h2>
-  <br>
   <div style="max-width: 900px; margin: 0 auto; display: grid; gap: 20px;">
     <div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 20px;">
       <h3 style="margin: 0; color: #7c3aed;"> 🟣 Hover AI</h3>

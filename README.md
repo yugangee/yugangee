@@ -59,6 +59,7 @@
   <!-- Data -->
   <h3>🗄️ Data</h3>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white">
   <br><br>
 
   <!-- Tools / Collaboration -->

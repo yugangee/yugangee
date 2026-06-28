@@ -5,9 +5,6 @@
 
 <div align="center">
   <h3>AI · Full-Stack Developer</h3>
-  <a href="https://yugangee.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-eabcf0?style=for-the-badge&logo=githubpages&logoColor=black">
-  </a>
   <a href="https://www.linkedin.com/in/yugyeongheo/ko/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -168,7 +165,6 @@
 <!-- ===================== Projects ===================== -->
 <div align="center">
   <h2> 🚀 Projects </h2>
-  <p><a href="https://yugangee.github.io/Portfolio/">전체 포트폴리오 보기 ↗</a></p>
 </div>
 
 ### 🟣 [en.sedaily.com](https://en.sedaily.com) — 글로벌 뉴스를 위한 AI 기반 AEO·SEO 최적화 플랫폼

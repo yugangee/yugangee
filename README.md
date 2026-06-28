@@ -5,7 +5,6 @@
 
 <div align="center">
   <h3>AI · Full-Stack Developer</h3>
-  <p><i>The Mind Behind the World's #1 AI News Platform — A Results-Driven Full-Stack Engineer</i></p>
   <a href="https://yugangee.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-eabcf0?style=for-the-badge&logo=githubpages&logoColor=black">
   </a>
